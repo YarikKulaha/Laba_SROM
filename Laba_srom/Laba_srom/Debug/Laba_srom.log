@@ -1,0 +1,46 @@
+﻿  Laba_srom.cpp
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(38,35): warning C4244: =: преобразование "double" в "unsigned __int64", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(46,36): warning C4244: =: преобразование "double" в "unsigned __int64", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(51,36): warning C4244: =: преобразование "double" в "unsigned __int64", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(56,24): warning C4244: =: преобразование "double" в "unsigned __int64", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(60,24): warning C4244: =: преобразование "double" в "unsigned __int64", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(107,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(131,26): warning C4244: инициализация: преобразование "double" в "unsigned __int64", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(135,11): warning C4244: =: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(138,11): warning C4244: =: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(141,11): warning C4244: =: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(164,15): warning C4244: =: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(196,17): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(245,17): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(264,8): warning C4244: инициализация: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(275,15): warning C4244: инициализация: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(295,11): warning C4244: =: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(298,11): warning C4244: =: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(301,11): warning C4244: =: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(355,14): warning C4244: инициализация: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(393,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(396,5): warning C4552: "+": результат выражения не используется
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(435,33): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(436,16): warning C4244: =: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(479,26): warning C4244: инициализация: преобразование "double" в "unsigned __int64", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(691,32): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(693,34): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(694,38): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(696,44): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(716,13): warning C4244: инициализация: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(752,33): warning C4244: =: преобразование "double" в "unsigned __int64", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(765,33): warning C4244: =: преобразование "double" в "unsigned __int64", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(775,24): warning C4244: =: преобразование "double" в "unsigned __int64", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(787,32): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(811,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(863,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(865,5): warning C4552: "+": результат выражения не используется
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(889,17): warning C4244: инициализация: преобразование "double" в "__int64", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(951,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(1027,37): warning C4244: =: преобразование "double" в "unsigned __int64", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(1040,37): warning C4244: =: преобразование "double" в "unsigned __int64", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(1050,24): warning C4244: =: преобразование "double" в "unsigned __int64", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(1280,12): warning C4129: B: неизвестная escape-последовательность
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(1393,34): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+C:\Users\Админ\Desktop\Laba_srom\Laba_srom\Laba_srom.cpp(1425,29): warning C4244: аргумент: преобразование "unsigned __int64" в "int", возможна потеря данных
+  Laba_srom.vcxproj -> C:\Users\Админ\Desktop\Laba_srom\Debug\Laba_srom.exe
